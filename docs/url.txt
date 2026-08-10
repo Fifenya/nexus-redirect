@@ -1,1 +1,1 @@
-https://trusted-name-discovery-investments.trycloudflare.com
+https://api.trycloudflare.com
