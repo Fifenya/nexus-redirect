@@ -1,1 +1,1 @@
-https://blair-chronicle-cgi-dealt.trycloudflare.com
+https://api.trycloudflare.com
